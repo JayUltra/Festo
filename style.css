@@ -52,6 +52,9 @@
 .card-title {
     text-align: center;
 }
+.card-body {
+    text-align: center;
+}
 .card:hover .servicesIcon {
     color: #008000;
 }
