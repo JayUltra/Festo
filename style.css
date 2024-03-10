@@ -31,9 +31,6 @@
     margin-top: 4rem;
     padding-top: 4rem;
 } */
-.col-lg-8 {
-    margin-top: 4rem;
-    padding-top: 4rem;
 }
 #contact {
     padding-bottom: 4rem;
@@ -81,4 +78,5 @@
 #footer {
     background-color: #808080;
     text-align: center;
+    font-size: 0.5rem;
 }
