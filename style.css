@@ -95,6 +95,9 @@
 .card:hover .servicesIcon {
     color: #008000;
 }
+.card:hover {
+    background-color: brown;
+}
 .servicesText:hover {
     border: 1px solid #008000;
 }
