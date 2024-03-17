@@ -121,13 +121,13 @@
     text-align: center;
     font-size: 0.5rem;
 }
-/* * { 
+.cont { 
   margin : 0;
   padding: 0;
   box-sizing : border-box;
   font-familly : "Poppins", sans-serif;
 }
-body {
+.cont .body {
   display : flex;
   align-items : center;
   justify-content : center;  
