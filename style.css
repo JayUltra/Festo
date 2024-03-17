@@ -135,7 +135,7 @@ body {
   min-height : 800px;
 }
 
-.container {
+.cont {
   position : relative;
   width : 1100px;
   display : flex;
@@ -145,7 +145,7 @@ body {
   padding : 30px;  
 }
 
-.container .card {
+.cont .card {
   position: relative;
   max-width : 300px;
   height : 215px;  
@@ -159,12 +159,12 @@ body {
   transition : 0.3s ease-in-out;
   border-radius : 15px;
 }
-.container .card:hover {
+.cont .card:hover {
   height : 320px;    
 }
 
 
-.container .card .image {
+.cont .card .image {
   position : relative;
   width : 260px;
   height : 260px;
@@ -175,12 +175,12 @@ body {
   z-index : 1;
 }
 
-.container .card .image img {
+.cont .card .image img {
   max-width : 100%;
   border-radius : 15px;
 }
 
-.container .card .content {
+.cont .card .content {
   position : relative;
   top : -140px;
   padding : 10px 15px;
@@ -193,7 +193,7 @@ body {
     
 }
 
-.container .card:hover .content {
+.cont .card:hover .content {
    margin-top : 30px;
    visibility : visible;
    opacity : 1;
