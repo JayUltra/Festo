@@ -137,12 +137,12 @@
 
 .cont {
   position : relative;
-  width : 500px;
+/*  width : 500px; */
   display : flex;
   align-items : center;
   justify-content : center;
   flex-warp : warp;
-  padding : 30px;  
+/*  padding : 30px;  */
 }
 
 .cont .card {
@@ -168,7 +168,6 @@
   position : relative;
   width : 260px;
   height : 260px;
-  
   top : -40%;
   left: 8px;
   box-shadow : 0 5px 20px rgba(0,0,0,0.2);
